@@ -1,0 +1,24 @@
+{
+  "name": "story-transition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasheslav/story-transition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasheslav/story-transition/issues"
+  },
+  "homepage": "https://github.com/Vasheslav/story-transition#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  }
+}
